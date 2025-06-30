@@ -19,7 +19,5 @@ This project leverages Tableau to build a comprehensive dashboard analyzing EV r
 * Provide insights for strategic planning, policy formulation, or market research.
 
   **Project Preview**
- https://github.com/SourabhKulkarni12/Electric-Vehicle-Dashboard/blob/main/image.png
-
-
+ ![image](https://github.com/user-attachments/assets/ef8eecbe-3a1c-40c0-af50-2cf4fbf0bffe)
 
